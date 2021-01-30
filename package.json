@@ -1,0 +1,23 @@
+{
+  "name": "aws-profiles",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "copy-text-to-clipboard": "^3.0.0",
+    "csv-generate": "^3.3.0",
+    "csv-parse": "^4.15.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.1",
+    "require-env-variable": "^3.1.1"
+  }
+}
