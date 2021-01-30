@@ -8,14 +8,13 @@ You need to create an environment variable `AWS_CREDENTIALS_HOME` which points t
 
 ## Directory structure
 
-|-- Organisation A
-   | -- profileA
-      | -- credentials.csv
-   | -- profileB
-      | -- credentials.csv
-|-- Organisation B
-   | -- profileA
-      | -- credentials.csv
-   | -- profileB
-      | -- credentials.csv
-   
+├── accountA
+│   ├── profileA
+│   │   └── credentials.csv
+│   └── profileB
+│       └── credentials.csv
+└── accountB
+    ├── profileA
+    │   └── credentials.csv
+    └── profileB
+        └── credentials.csv
