@@ -11,4 +11,4 @@ You need to create an environment variable `AWS_CREDENTIALS_HOME` which points t
 
 ## Directory structure
 
-![directory](./screenshot.png)
+![directory](./directory.png)
