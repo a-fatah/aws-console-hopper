@@ -11,3 +11,7 @@ The tool expects you to use the same credentials file that AWS provides when you
 To configure the tool, you'll need to create an environment variable called `AWS_CREDENTIALS_HOME`. This variable should point to the directory where you've stored your credentials. 
 
 The directory structure for credentials home is shown in the image below.
+
+## Directory structure
+
+![directory](./directory.png)
