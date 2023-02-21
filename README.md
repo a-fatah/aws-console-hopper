@@ -8,4 +8,6 @@ To use this tool, you'll need to create a directory that contains subdirectories
 
 The tool expects you to use the same credentials file that AWS provides when you create a user in IAM. You can use this file by simply removing the username from the left of the filename. For example, if your credentials file is named abdulfatah_credentials.csv, you should rename it to credentials.csv.
 
-To configure the tool, you'll need to create an environment variable called AWS_CREDENTIALS_HOME. This variable should point to the directory where you've stored your credentials. For example, you can set the AWS_CREDENTIALS_HOME variable to ~/aws by running the command export AWS_CREDENTIALS_HOME=~/aws. This will tell the tool where to look for your credentials when you want to log in to an AWS account.
+To configure the tool, you'll need to create an environment variable called `AWS_CREDENTIALS_HOME`. This variable should point to the directory where you've stored your credentials. 
+
+The directory structure for credentials home is shown in the image below.
